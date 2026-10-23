@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm Irrigation & Agronomy Hub",
+  "description": "ระบบควบคุมอัจฉริยะแดชบอร์ดศูนย์กลาง รดน้ำอัตโนมัติ 2 โซน พร้อมการวิเคราะห์ดินเหนียวและค่า Kc พืช",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
